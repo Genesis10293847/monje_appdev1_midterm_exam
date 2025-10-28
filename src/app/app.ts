@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('monje_midterm_exam');
+  protected readonly title = signal('angular_weather');
 }
